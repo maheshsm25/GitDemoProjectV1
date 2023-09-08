@@ -1,6 +1,6 @@
 package gDP;
 
-public class Test2 {
+public class Test300 {
 	public static void main(String[] args) {
 		String hungry = "yes";
 
